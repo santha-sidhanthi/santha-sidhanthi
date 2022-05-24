@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santha-sidhanthi
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on remote working and work from home Data Scienec/ Python Jobs
+- 💞️ I’m looking to collaborate on remote working and work from home Data Science/ Python Jobs
 - 📫 How to reach me [karanamsantha@gmail.com](karanamsantha@gmail.com)
 - 
 - 
